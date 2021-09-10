@@ -1,2 +1,2 @@
-# NewsAPI
-Backup News API
+# NewsAPP
+Backup News APP
